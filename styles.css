@@ -1,0 +1,19 @@
+body {
+    border: 5px solid blue;
+    margin: 15px;
+    width: 350px;
+    padding: 15px;
+}
+
+.display {
+    border: 2px solid black;
+    text-align: right;
+    width: 265px;
+    height: 20px;
+    margin: 10px;
+}
+
+.operators, .numbers, .functions, h1 {
+    margin: 10px;
+}
+
